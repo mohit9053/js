@@ -12,3 +12,8 @@ const id = Symbol('123')
 const another = Symbol('123')
 console.log(id===another); // false
 
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// two types of memory stack (premitive) and heap (non premitive)
+
+// premitive me copy milta hai or non premitive me reference
